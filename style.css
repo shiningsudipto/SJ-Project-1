@@ -227,8 +227,8 @@ footer p {
     }
 
     .heading-img img {
-        width: 22rem;
-        height: 15rem;
+        width: 20rem;
+        height: 13rem;
     }
 
     .projects {
@@ -237,7 +237,7 @@ footer p {
     }
 
     .project-card img {
-        width: 22rem;
+        width: 20rem;
     }
 
     .project-card {
@@ -276,8 +276,8 @@ footer p {
     }
 
     .about-img img {
-        width: 15rem;
-        height: 20rem;
+        width: 15.5rem;
+        height: 19rem;
         border-radius: 20px;
         text-align: center;
         width: 100%;
